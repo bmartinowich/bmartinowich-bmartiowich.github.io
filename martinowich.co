@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+  <head>
+    <style>
+    header {
+        text-align: center;
+        color: grey;
+        background-size: cover;
+        background: url("http://static.tumblr.com/fb7f6248e23bfb4fdb35c414a16a7eff/xssqhhe/Dlynb0uov/tumblr_static_bo15u141ejkk88o00ww4g04gw.jpg");
+        background-position: center;
+      }
+    .headshot {
+			border: 1px solid white;
+			border-radius: 100px;
+			margin: 50px 0px 5px 0px;"
+    }
+    h1 {
+			text-align: center;
+			font-size: 40px;
+			font-weight: lighter;
+      color: white;
+      border-color: black;
+    }
+    ul {
+    	padding: 10px;
+    	background-color: black;
+    		}
+    li {
+			display: inline;
+			padding: 0px 20px 0px 20px;
+      color: grey;
+		}
+    article {
+			max-width: 500px;
+			padding: 10px;
+			margin: 0 auto;
+			color: gray;
+		}
+    h2 {
+			text-align: center;
+			font-size: 40px;
+			font-weight: lighter;
+    }
+		p {
+			display: block;
+      text-align: center;
+    }
+
+
+
+    </style>
+  </head>
+<body>
+  <header>
+    <img class="headshot" src= "http://i.imgur.com/22r4deg.jpg">
+    <h1> Brian Martinowich </h1>
+      <ul>
+        <li><a href="#About Me">About Me</a></li>
+        <li><a href="#Projects">Projects</a></li>
+        <li><a href="#Contact">Contact</a></li>
+  </header>
+
+  <article>
+    <a name="About Me"></a>
+    <h2>About Me</h2>
+      <p>Coming soon!</p>
+  <article>
+    <a name="Projects"></a>
+    <h2>Projects</h2>
+      <p>Coming soon!</p>
+  <article>
+    <a name="Contact"></a>
+    <h2>Contact</h2>
+    <p>Coming soon!</p>
+
+
+</body>
