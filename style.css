@@ -1,32 +1,29 @@
 header {
 		text-align: center;
 		color: grey;
-		background-size: cover;
-		background: url("http://static.tumblr.com/fb7f6248e23bfb4fdb35c414a16a7eff/xssqhhe/Dlynb0uov/tumblr_static_bo15u141ejkk88o00ww4g04gw.jpg");
+		width:100%;
+		height:100%;
+		background-size: 100%;
 		background-position: center;
-	}
-.headshot {
-	border: 5px solid white;
-	border-radius: 50px;
-	margin: 50px 0px 5px 0px;
 }
+
 h1 {
 	text-align: center;
 	font-size: 40px;
 	font-weight: lighter;
-	color: white;
+	color: grey;
 	border-color: black;
-	font-family: "Pacifico";
+	font-family: "Lobster";
 }
 ul {
 	padding: 10px;
-	background-color: black;
+	background-color: white;
 		}
 li {
 	display: inline;
 	padding: 0px 20px 0px 20px;
 	color: grey;
-	font-family: "Pacifico"
+	font-family: "Lobster";
 }
 .container {
 	max-width: 500px;
